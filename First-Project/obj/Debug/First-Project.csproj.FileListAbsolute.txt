@@ -1,0 +1,52 @@
+C:\Users\Danila\source\repos\First-Project\First-Project\bin\Debug\First-Project.exe.config
+C:\Users\Danila\source\repos\First-Project\First-Project\bin\Debug\First-Project.exe
+C:\Users\Danila\source\repos\First-Project\First-Project\bin\Debug\First-Project.pdb
+C:\Users\Danila\source\repos\First-Project\First-Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danila\source\repos\First-Project\First-Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Danila\source\repos\First-Project\First-Project\obj\Debug\First-Project.csproj.AssemblyReference.cache
+C:\Users\Danila\source\repos\First-Project\First-Project\obj\Debug\First_Project.Form1.resources
+C:\Users\Danila\source\repos\First-Project\First-Project\obj\Debug\First_Project.Properties.Resources.resources
+C:\Users\Danila\source\repos\First-Project\First-Project\obj\Debug\First-Project.csproj.GenerateResource.cache
+C:\Users\Danila\source\repos\First-Project\First-Project\obj\Debug\First-Project.csproj.CoreCompileInputs.cache
+C:\Users\Danila\source\repos\First-Project\First-Project\obj\Debug\First-Project.csproj.CopyComplete
+C:\Users\Danila\source\repos\First-Project\First-Project\obj\Debug\First-Project.exe
+C:\Users\Danila\source\repos\First-Project\First-Project\obj\Debug\First-Project.pdb
+C:\Users\Danila\source\repos\First-Project framework\First-Project\bin\Debug\First-Project.exe.config
+C:\Users\Danila\source\repos\First-Project framework\First-Project\bin\Debug\First-Project.exe
+C:\Users\Danila\source\repos\First-Project framework\First-Project\bin\Debug\First-Project.pdb
+C:\Users\Danila\source\repos\First-Project framework\First-Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danila\source\repos\First-Project framework\First-Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Danila\source\repos\First-Project framework\First-Project\obj\Debug\First-Project.csproj.AssemblyReference.cache
+C:\Users\Danila\source\repos\First-Project framework\First-Project\obj\Debug\First_Project.Form1.resources
+C:\Users\Danila\source\repos\First-Project framework\First-Project\obj\Debug\First_Project.Properties.Resources.resources
+C:\Users\Danila\source\repos\First-Project framework\First-Project\obj\Debug\First-Project.csproj.GenerateResource.cache
+C:\Users\Danila\source\repos\First-Project framework\First-Project\obj\Debug\First-Project.csproj.CoreCompileInputs.cache
+C:\Users\Danila\source\repos\First-Project framework\First-Project\obj\Debug\First-Project.csproj.CopyComplete
+C:\Users\Danila\source\repos\First-Project framework\First-Project\obj\Debug\First-Project.exe
+C:\Users\Danila\source\repos\First-Project framework\First-Project\obj\Debug\First-Project.pdb
+C:\Users\Danila\source\repos\First-Project framework — копия\First-Project\bin\Debug\First-Project.exe.config
+C:\Users\Danila\source\repos\First-Project framework — копия\First-Project\bin\Debug\First-Project.exe
+C:\Users\Danila\source\repos\First-Project framework — копия\First-Project\bin\Debug\First-Project.pdb
+C:\Users\Danila\source\repos\First-Project framework — копия\First-Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danila\source\repos\First-Project framework — копия\First-Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Danila\source\repos\First-Project framework — копия\First-Project\obj\Debug\First-Project.csproj.AssemblyReference.cache
+C:\Users\Danila\source\repos\First-Project framework — копия\First-Project\obj\Debug\First_Project.Form1.resources
+C:\Users\Danila\source\repos\First-Project framework — копия\First-Project\obj\Debug\First_Project.Properties.Resources.resources
+C:\Users\Danila\source\repos\First-Project framework — копия\First-Project\obj\Debug\First-Project.csproj.GenerateResource.cache
+C:\Users\Danila\source\repos\First-Project framework — копия\First-Project\obj\Debug\First-Project.csproj.CoreCompileInputs.cache
+C:\Users\Danila\source\repos\First-Project framework — копия\First-Project\obj\Debug\First-Project.csproj.CopyComplete
+C:\Users\Danila\source\repos\First-Project framework — копия\First-Project\obj\Debug\First-Project.exe
+C:\Users\Danila\source\repos\First-Project framework — копия\First-Project\obj\Debug\First-Project.pdb
+C:\Users\Danila\source\repos\First-Project framework last version\First-Project\bin\Debug\First-Project.exe.config
+C:\Users\Danila\source\repos\First-Project framework last version\First-Project\bin\Debug\First-Project.exe
+C:\Users\Danila\source\repos\First-Project framework last version\First-Project\bin\Debug\First-Project.pdb
+C:\Users\Danila\source\repos\First-Project framework last version\First-Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danila\source\repos\First-Project framework last version\First-Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Danila\source\repos\First-Project framework last version\First-Project\obj\Debug\First-Project.csproj.AssemblyReference.cache
+C:\Users\Danila\source\repos\First-Project framework last version\First-Project\obj\Debug\First_Project.Form1.resources
+C:\Users\Danila\source\repos\First-Project framework last version\First-Project\obj\Debug\First_Project.Properties.Resources.resources
+C:\Users\Danila\source\repos\First-Project framework last version\First-Project\obj\Debug\First-Project.csproj.GenerateResource.cache
+C:\Users\Danila\source\repos\First-Project framework last version\First-Project\obj\Debug\First-Project.csproj.CoreCompileInputs.cache
+C:\Users\Danila\source\repos\First-Project framework last version\First-Project\obj\Debug\First-Project.csproj.CopyComplete
+C:\Users\Danila\source\repos\First-Project framework last version\First-Project\obj\Debug\First-Project.exe
+C:\Users\Danila\source\repos\First-Project framework last version\First-Project\obj\Debug\First-Project.pdb
